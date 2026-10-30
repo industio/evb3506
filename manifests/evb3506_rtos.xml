@@ -68,7 +68,7 @@
         name="kernel"
 	path="kernel-6.1"
         remote="kernel"
-        revision="kernel-6.1.84-rk3506" />
+        revision="kernel-6.1.118-rk3506" />
     <project
         name="rkbin"
 	path="rkbin"
