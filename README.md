@@ -13,12 +13,12 @@
 ## 🚀 Quick Start
 
 1. Read the **[[Getting Started Guide]]** to complete unboxing, connect the debug serial port, and perform the first power-on.
-2. Refer to **[[Making a Linux Boot SD Card]]** to create a boot card.
+2. Refer to **[[Making a Linux Boot SD Card]]** to create a boot card. (Optional)
 3. Go to the **[[Linux User Manual]]** to get familiar with system usage, or directly consult the **[[Linux Development Manual]]** to start driver and application development.
 
 ## 📚 Full Documentation
 
-All detailed documents (including Linux, Docker, LVGL, MAC flashing, OpenHarmony, etc.) have been organized in the **Wiki**:
+All detailed documents (including Linux, Docker, LVGL, MAC flashing , etc.) have been organized in the **Wiki**:
 
 👉 **https://github.com/industio/evb3506/wiki**
 
