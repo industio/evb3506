@@ -12,9 +12,9 @@
 
 ## 🚀 Quick Start
 
-1. Read the **[[Getting Started Guide]]** to complete unboxing, connect the debug serial port, and perform the first power-on.
-2. Refer to **[[Making a Linux Boot SD Card]]** to create a boot card. (Optional)
-3. Go to the **[[Linux User Manual]]** to get familiar with system usage, or directly consult the **[[Linux Development Manual]]** to start driver and application development.
+1. Read the **[Getting Started Guide](https://github.com/industio/evb3506/wiki/IDO%E2%80%90EVB3506%E2%80%90V1--Getting-Started-Guide)** to complete unboxing, connect the debug serial port, and perform the first power-on.
+2. Refer to **[Making a Linux Boot SD Card](https://github.com/industio/evb3506/wiki/IDO%E2%80%90EVB3506%E2%80%90V1-Making-a-Linux-Boot-SD-Card)** to create a boot card. (Optional)
+3. Go to the **[Linux User Manual](https://github.com/industio/evb3506/wiki/IDO%E2%80%90EVB3506%E2%80%90V1-Linux-User-Manual)** to get familiar with system usage, or directly consult the **[Linux Development Manual](https://github.com/industio/evb3506/wiki/IDO%E2%80%90EVB3506%E2%80%90V1-Linux-Development-Manual)** to start driver and application development.
 
 ## 📚 Full Documentation
 
